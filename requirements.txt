@@ -1,0 +1,6 @@
+pytorch-crf==0.7.2
+pytorch-transformers==1.2.0
+pytorch-pretrained-bert==0.6.2
+torch==1.8.1+cu111
+prefetch-generator==1.0.1
+tqdm==4.65.0

@@ -1,2 +1,2 @@
 # JointER-KNWS
-Joint Entity and Relation Extraction for Republic of Korea Navy Weapon System
+Joint Entity and Relation Extraction for Korea Navy Weapon System
